@@ -46,8 +46,6 @@
             style="@style/bottom_button_style"
             android:drawableTop="@drawable/rb_net_audio_selector"
             android:text="网络音乐" />
-
-
         <RadioButton
             android:id="@+id/rb_net_video"
             style="@style/bottom_button_style"
